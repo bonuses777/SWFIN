@@ -27,3 +27,4 @@ headers = {
 r = requests.post(url, data=json.dumps(body), headers=headers)
 print(r)
 print(r.text)
+#Rezult vyvesti v txt fayl
